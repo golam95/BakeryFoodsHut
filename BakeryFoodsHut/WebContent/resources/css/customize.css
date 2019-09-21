@@ -1,0 +1,65 @@
+.listofcontent{
+	float:right;
+	padding:5px;
+	background-color:#FFFFFF;
+	height:420px;
+}
+.formcontent{float:right;
+	padding:5px;
+	background-color:#FFFFFF;
+	height:420px;
+	 
+	}
+.button_alignment{
+	
+}
+.button_left{float:left;padding-top:50px;padding-bottom:27px;margin-right:15px;}
+.button_left a{background:#4E2614;padding:5px;border:5px solid #DAB776;font-weight:bold;border-radius:7px;margin-left:10px;color:#FFFFFF;}
+
+.listofcontent a{
+	height:93px;
+	border:8px solid #DAB776;
+	margin-top:20px;
+	margin-bottom:5px;
+	font-weight:bold;
+	margin-right:10px;
+	margin-left:20px;
+}
+.sidebar{
+	background:#95540B;
+	float:left;
+	min-height:538px;
+	margin-left: -125px;
+	width: 285px;
+	border-right:2px solid #22202E;
+}
+.leftshopkeeper{
+	
+}
+.leftshopkeeper a{
+	height:80px;
+	border:8px solid #22202E;
+	color:#22202E;
+	margin-top:20px;
+	margin-bottom:5px;
+	font-weight:bold;
+	margin-right:10px;
+	margin-left:143px;
+}
+.table tr{
+	border:2px solid #E4E4E4;
+	
+}
+.table tr th{
+	background:#D3D3D3;
+	border:2px solid #E4E4E4;
+		text-align:center;
+		font-weight:bold;
+		font-size:16px;
+}
+.table td{
+	border:2px solid #E4E4E4;
+	text-align:center;
+	
+}
+
